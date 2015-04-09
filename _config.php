@@ -11,7 +11,7 @@ ShortcodeParser::get()->register('mini_cart_item', array('MiniCart', 'MiniCartIt
 // --------------------------------------------------------------------------------
 
 // Your PayPal Email Address
-MiniCart::set_business_email('email@example.com');
+/*(MiniCart::set_business_email('email@example.com');
 
 // Currenty Code
 MiniCart::set_currency_code('USD');
@@ -55,3 +55,4 @@ MiniCart::set_cart_config(array(
 	'assetURL' => MODULE_MINICART_DIR . '/vendor/MiniCart/'
 	
 ));
+*/
